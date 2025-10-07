@@ -1,0 +1,11 @@
+role,description,skills,upskilling
+Data Scientist,"Build ML models, analyze data and create visualizations.","python, pandas, scikit-learn, statistics","Machine Learning Specialization (Coursera), Deep Learning (fast.ai)"
+Machine Learning Engineer,"Productionize ML models, work with model deployment and data pipelines.","python, mlops, docker, tensorflow","MLOps with TensorFlow, Docker/Kubernetes basics"
+Frontend Developer,"Build user interfaces, HTML/CSS/JS, modern frameworks.","html, css, javascript, react","Advanced React, TypeScript course"
+Backend Developer,"Design APIs, databases, server-side logic.","python, flask, sql, django","System Design, Advanced Databases"
+DevOps Engineer,"CI/CD pipelines, infra-as-code, monitoring.","docker, kubernetes, aws, ci/cd","AWS Solutions Architect, Kubernetes bootcamp"
+Product Manager,"Define product vision, roadmap, stakeholder communication.","communication, analytics, user-research","Product Strategy (Coursera), Roadmap workshops"
+UI/UX Designer,Design interfaces and user studies.,"figma, prototyping, user-testing","Design thinking, Advanced Figma"
+Data Analyst,"Run queries, dashboards, ETL, reporting.","sql, excel, tableau, pandas","SQL for Data Science, Dashboarding"
+QA Engineer,"Write tests, automate testing and ensure quality.","testing, selenium, pytest, automation","Test Automation, Selenium course"
+Mobile Developer,"Build Android/iOS apps, mobile UI/UX.","java, kotlin, swift, react-native","Android Kotlin Developer, SwiftUI course"
